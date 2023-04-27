@@ -1,0 +1,20 @@
+ BugReport
+   ID 1
+   Severity Low
+   Priority High
+   Environment MacOs ventura 13.1.1 safari  16.4 (18615.1.26.11.23) 
+   CreatedBy Lera 
+   AssignedTo Dima Dev
+  Summery Кнопки [Download on the App Store] и [Get it on Google Play] перенаправляют в магазин приложений  App Store
+  Step:
+             1.Открыть страницу capital.com
+             2. нажать на Burger menu
+             3. нажать [рынки]
+             4. выбрать любой пункт меню
+             5. нажать Скачать приложение
+             6. нажать на иконку get it on Google Play
+  Expected Result: Ссылка для скачивания приложения в Google Play работает при нажатии на иконку
+  Actual Result: Происходит редирект в магазин приложений App Store
+  Lin: https://drive.google.com/file/d/1fHTyM3TJERxB7pw1pTKHf30LqutFw5jL/view?usp=share_link
+  
+
